@@ -1,7 +1,6 @@
 # Calculator Web App
 
-A simple and responsive calculator built using HTML, CSS, and JavaScript.  
-This project was completed as part of a CodeAlpha internship and served as a practice project to improve web development skills.
+A simple and responsive calculator built using HTML, CSS, and JavaScript.
 
 ## 🚀 Features
 
@@ -33,3 +32,4 @@ Completed ✅ – fully functional with dark and bright modes.
 
 This project is mainly for learning and practice purposes.  
 Suggestions or improvements are welcome!
+
